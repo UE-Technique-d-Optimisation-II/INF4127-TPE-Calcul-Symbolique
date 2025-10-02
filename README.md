@@ -60,12 +60,12 @@ Dans ce projet, nous allons présenter un problème d’optimisation inspiré d�
 
 1. Clonez le dépôt :
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone 'https://github.com/UE-Technique-d-Optimisation-II/INF4127-TPE-Calcul-Symbolique/blob/main/README.md'
 
     Accédez au répertoire du projet :
     bash
 
-cd <NOM_DU_REPERTOIRE>
+cd "INF4127-TPE-Calcul-Symbolique"
 
 Installez les dépendances :
 bash
